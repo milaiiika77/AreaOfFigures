@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\bin\Debug\AreaOfFigures.Tests.dll
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\bin\Debug\AreaOfFigures.Tests.pdb
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\bin\Debug\AreaOfFigures.dll
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\bin\Debug\AreaOfFigures.pdb
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\obj\Debug\AreaOfFigures.Tests.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\obj\Debug\AreaOfFigures.Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\obj\Debug\AreaOfFigures.Tests.csproj.CopyComplete
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\obj\Debug\AreaOfFigures.Tests.dll
+C:\Users\user\Desktop\TestTask\AreaOfFigures.Tests\obj\Debug\AreaOfFigures.Tests.pdb

@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\TestTask\AreaOfFigures\bin\Debug\AreaOfFigures.dll
+C:\Users\user\Desktop\TestTask\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+C:\Users\user\Desktop\TestTask\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TestTask\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TestTask\AreaOfFigures\obj\Debug\AreaOfFigures.dll
+C:\Users\user\Desktop\TestTask\AreaOfFigures\obj\Debug\AreaOfFigures.pdb
+C:\Users\user\Desktop\repos\TestTask\AreaOfFigures\bin\Debug\AreaOfFigures.dll
+C:\Users\user\Desktop\repos\TestTask\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+C:\Users\user\Desktop\repos\TestTask\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\repos\TestTask\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\repos\TestTask\AreaOfFigures\obj\Debug\AreaOfFigures.dll
+C:\Users\user\Desktop\repos\TestTask\AreaOfFigures\obj\Debug\AreaOfFigures.pdb
